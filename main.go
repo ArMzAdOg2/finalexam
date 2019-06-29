@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"arm/finalexam/model"
+	"github.com/ArMzAdOg2/finalexam/model"
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/lib/pq"
